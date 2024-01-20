@@ -1,0 +1,74 @@
+.hak_bilmedikler
+{
+	
+	font-size:20px;
+	letter-spacing:2px;
+	padding-top:150px;
+	font-family: 'Raleway', sans-serif;
+	padding-bottom:50px;
+	font-style:bold;
+}
+.hak_bilmedikler_p
+{
+	text-align:center;
+	font-family: 'Karla', sans-serif;
+	font-size:15px;
+	color:#303030;
+	padding-bottom:30px;
+}
+.is_surec_h1
+{
+	font-size:30px;
+	padding-top:50px;
+	font-family: 'Raleway', sans-serif;
+	padding-bottom:35px;
+}
+.is_surec_p
+{
+	text-align:center;
+	line-height:25px;
+	color:#6a6a6a;
+	font-family: 'Poppins', sans-serif;
+	font-size:13px;
+	padding-bottom:40px;
+}
+.misyon_h1
+{
+	font-size:14px;
+	letter-spacing:2px;
+	font-family: 'Raleway', sans-serif;
+	font-style:bold;
+}
+.misyon_h2
+{
+	font-size:25px;
+	letter-spacing:2px;
+	font-family: 'Raleway', sans-serif;
+	font-style:bold;
+	max-width:300px;
+	border-left:3px solid black;
+	
+}
+.misyon_p
+{
+	width:400px;
+	line-height:25px;
+	color:#6a6a6a;
+	font-family: 'Poppins', sans-serif;
+	font-size:13px;
+}
+.footer_h1
+{
+	color:white;
+	font-family: 'Raleway', sans-serif;
+	font-size:15px;
+	text-decoration:none;
+}
+.footer_a
+{
+	color:white;
+	font-family: 'Raleway', sans-serif;
+	font-size:15px;
+	text-decoration:none;
+	
+}
