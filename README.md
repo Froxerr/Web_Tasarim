@@ -1,2 +1,1 @@
-# Web_Tasarim
- 
+Web Tasarım çalışmalarımı sunduğum yer
